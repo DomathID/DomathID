@@ -2,6 +2,10 @@
 
 ![Profile views](https://gpvc.arturio.dev/domathid)
 
+<br>
+![Nekoi-Bot-Image](https://user-images.githubusercontent.com/68462743/87853613-bbd57680-c935-11ea-86ce-6d8cdcd13d89.gif)
+<br>
+
 <a href="https://www.linkedin.com/in/">
   <img align="left" alt="Syauqi's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
