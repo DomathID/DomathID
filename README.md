@@ -1,8 +1,6 @@
 ### Hey 👋, I'm Domath !
 
 ![Profile views](https://gpvc.arturio.dev/domathid)
-![Nekoi-Bot-Image](https://user-images.githubusercontent.com/68462743/87853613-bbd57680-c935-11ea-86ce-6d8cdcd13d89.gif)
-
 <a href="https://www.facebook.com/bangdomath.id">
   <img align="left" alt="Syauqi's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
@@ -22,6 +20,7 @@
   <img align="left" alt="Syauqi's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
 
+![Nekoi-Bot-Image](https://user-images.githubusercontent.com/68462743/87853613-bbd57680-c935-11ea-86ce-6d8cdcd13d89.gif)
 
 <br />
 <br />
