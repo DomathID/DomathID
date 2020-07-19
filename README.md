@@ -5,7 +5,6 @@
 
 [![Domath ID github stats](https://github-readme-stats.vercel.app/api?username=domathid)](https://github.com/domathid/nekoi69)
 
-![Profile views](https://gpvc.arturio.dev/domathid)
 <a href="https://www.facebook.com/bangdomath.id">
   <img align="left" alt="BangDomath Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
@@ -27,3 +26,7 @@
 <a href="https://masdomath.my.id/">
  <img align="left" alt="BangDomath Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />
 </a>
+### Quote 
+< Tetap Hidup Walaupun Tidak Berguna -Manusia Biasa
+<br>
+![Profile views](https://gpvc.arturio.dev/domathid)
