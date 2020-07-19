@@ -28,6 +28,8 @@
 </a>
 
 ### Quote 
-> Tetap Hidup Walaupun Tidak Berguna -Manusia Biasa
-<br>
+> Tetap Hidup Walaupun Tidak Berguna -Manusia Biasa.
+
+
+
 ![Profile views](https://gpvc.arturio.dev/domathid)
