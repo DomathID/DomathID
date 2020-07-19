@@ -52,10 +52,6 @@
 
 <br />
 <br />
-<details>
 
-<br />
-  
 [![Domath ID github stats](https://github-readme-stats.vercel.app/api?username=domathid)](https://github.com/domathid/nekoi69)
  
-</details>
