@@ -1,5 +1,7 @@
 ### Hey 👋, I'm Domath !
 
+![Profile views](https://gpvc.arturio.dev/domathid)
+
 ![Nekoi-Bot-Image](https://user-images.githubusercontent.com/68462743/87853613-bbd57680-c935-11ea-86ce-6d8cdcd13d89.gif)
 <br />
 
@@ -26,7 +28,3 @@
 <a href="https://masdomath.my.id/">
  <img align="left" alt="BangDomath Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />
 </a>
-
-<br />
-
-![Profile views](https://gpvc.arturio.dev/domathid)
