@@ -27,6 +27,6 @@
  <img align="left" alt="BangDomath Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />
 </a>
 ### Quote 
-< Tetap Hidup Walaupun Tidak Berguna -Manusia Biasa
+<Tetap Hidup Walaupun Tidak Berguna -Manusia Biasa
 <br>
 ![Profile views](https://gpvc.arturio.dev/domathid)
