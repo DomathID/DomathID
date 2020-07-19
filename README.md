@@ -27,6 +27,8 @@
  <img align="left" alt="BangDomath Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />
 </a>
 
+<br />
+
 ### Quote 
 > Tetap Hidup Walaupun Tidak Berguna -Manusia Biasa.
 
