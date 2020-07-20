@@ -1,4 +1,4 @@
-### Hey 👋, I'm Domath !
+### <img src="https://raw.githubusercontent.com/DomathID/DomathID/master/img/AW1586048_14.gif" width="22px" height="22px"/> Hey 👋, I'm Domath !
 
 <a href="https://saweria.co/domathjav69"><img src="https://img.shields.io/badge/Support-Me!-green.svg" alt="Support Me!"></a>
 ![Profile views](https://gpvc.arturio.dev/domathid)
