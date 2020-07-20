@@ -1,9 +1,9 @@
 ### Hey 👋, I'm Domath !
 
 
-| Donation | GitHub Views |
-|------------------|------|----------|--------------|
-| [![Netlify Status](https://api.netlify.com/api/v1/badges/20fc8f17-2f10-4d5a-a738-844642ba2c18/deploy-status)](https://app.netlify.com/sites/donation-shit/deploys) | [![Profile views](https://gpvc.arturio.dev/domathid)](https://masdomath.my.id) |
+
+
+
 
 <a href="https://saweria.co/domathjav69">
     <img src="https://img.shields.io/badge/Support-Me!-green.svg" alt="Support Me!">
