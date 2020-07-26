@@ -1,4 +1,4 @@
-### :octocat: Hey 👋, I'm Domath !</h4>
+### Hey :octocat:, I'm Domath !</h4>
 
 <a href="https://saweria.co/domathjav69"><img src="https://img.shields.io/badge/Support-Me!-green.svg" alt="Support Me!"></a>
 ![Profile views](https://gpvc.arturio.dev/domathid)
