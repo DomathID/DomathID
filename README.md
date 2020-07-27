@@ -5,7 +5,8 @@
 <br />
 ![Domath ID Gif](https://user-images.githubusercontent.com/68462743/87853613-bbd57680-c935-11ea-86ce-6d8cdcd13d89.gif)
 
-[![Domath ID github stats](https://github-readme-stats.vercel.app/api?username=domathid&show_icons=true&theme=vue)](https://github.com/domathid/nekoi69)
+[![Domath ID github stats](https://github-readme-stats.vercel.app/api?username=domathid&show_icons=true&theme=vue)](https://github.com/domathid/)
+[![Domath ID Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DomathID&layout=compact&theme=vue)](https://github.com/domathid/)
 
 <a href="https://www.facebook.com/bangdomath.id">
   <img align="left" alt="BangDomath Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
