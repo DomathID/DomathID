@@ -17,13 +17,13 @@
 <a href="https://twitter.com/BacotMath">
   <img align="left" alt="BangDomath Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://codepen.io/domathif">
+<a href="https://codepen.io/domathid">
   <img align="left" alt="BangDomath Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
 </a>
 <a href="https://stackoverflow.com/">
   <img align="left" alt="BangDomath StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
-<a href="https://reddit.com/">
+<a href="https://www.reddit.com/u/domathjav69">
   <img align="left" alt="BangDomath Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
 <a href="https://masdomath.my.id/">
