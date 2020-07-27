@@ -5,6 +5,7 @@
 <br />
 ![Domath ID Gif](https://user-images.githubusercontent.com/68462743/87853613-bbd57680-c935-11ea-86ce-6d8cdcd13d89.gif)
 
+<img align="center">
 [![Domath ID github stats](https://github-readme-stats.vercel.app/api?username=domathid&show_icons=true&theme=vue)](https://github.com/domathid/)
 [![Domath ID Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DomathID&layout=compact&theme=vue)](https://github.com/domathid/)
 
