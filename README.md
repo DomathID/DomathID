@@ -7,7 +7,7 @@
 <br />
 [![Domath ID github stats](https://github-readme-stats.vercel.app/api?username=DomathID&show_icons=true&theme=vue)](https://github.com/domathid/)
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DomathID&layout=compact)](https://github.com/domathid/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DomathID&layout=compact&theme=vue)](https://github.com/domathid/)
 <br />
 <a href="https://www.facebook.com/bangdomath.id">
   <img align="left" alt="BangDomath Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
