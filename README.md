@@ -12,7 +12,7 @@
 <a href="https://www.facebook.com/bangdomath.id">
   <img align="left" alt="BangDomath Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://dev.to/">
+<a href="https://dev.to/domathid">
   <img align="left" alt="BangDomath Dev.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
 </a>
 <a href="https://twitter.com/BacotMath">
@@ -21,7 +21,7 @@
 <a href="https://codepen.io/domathid">
   <img align="left" alt="BangDomath Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
 </a>
-<a href="https://stackoverflow.com/">
+<a href="https://stackoverflow.com/domathid">
   <img align="left" alt="BangDomath StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
 <a href="https://www.reddit.com/u/domathjav69">
