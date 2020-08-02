@@ -6,7 +6,7 @@
 
 [![Domath ID github stats](https://github-readme-stats.vercel.app/api?username=DomathID&show_icons=true&theme=vue)](https://github.com/domathid/)
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=domathId&layout=compact&theme=vue)](https://github.com/domathid/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=domathId&layout=compact&theme=buefy)](https://github.com/domathid/)
 <br />
 <br />
 <a href="https://www.facebook.com/bangdomath.id">
