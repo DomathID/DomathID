@@ -4,7 +4,6 @@
 ![Profile views](https://gpvc.arturio.dev/domathid)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=domathid.domathid)
 <br>
-![Private GIF](https://user-images.githubusercontent.com/68462743/89131032-2ee50c80-d534-11ea-9b50-7a0f43fef86a.gif)
 [![Domath ID github stats](https://github-readme-stats.vercel.app/api?username=DomathID&show_icons=true&theme=vue)](https://github.com/domathid/)
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=domathId&layout=compact&theme=vue)](https://github.com/domathid/)
