@@ -1,8 +1,8 @@
 ### Hey 👋, I'm Domath !
 
 <a href="https://saweria.co/domathjav69"><img src="https://img.shields.io/badge/Support-Me!-green.svg" alt="Support Me!"></a>
-![Profile views](https://gpvc.arturio.dev/domathid)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=domathid.domathid)
+[![Profile views](https://gpvc.arturio.dev/domathid)](https://github.com/domathid)
+[![visitors](https://visitor-badge.laobi.icu/badge?page_id=domathid.domathid)](https://github.com/domathid)
 <br>
 [![Domath ID github stats](https://github-readme-stats.vercel.app/api?username=DomathID&show_icons=true&theme=vue)](https://github.com/domathid/)
 <br />
