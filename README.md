@@ -14,7 +14,7 @@
 <a href="https://dev.to/domathid">
   <img align="left" alt="BangDomath Dev.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
 </a>
-<a href="https://discord.com/">
+<a href="https://discord.gg/e9bzxXD">
   <img align="left" alt="BangDomath Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
 <a href="https://codepen.io/domathid">
