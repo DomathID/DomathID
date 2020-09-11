@@ -3,11 +3,6 @@
 [![Profile views](https://gpvc.arturio.dev/domathid)](https://github.com/domathid)
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=domathid.domathid)](https://github.com/domathid)
 <br>
-[![Domath ID github stats](https://github-readme-stats.vercel.app/api?username=DomathID&count_private=false&show_icons=true&theme=vue)](https://github.com/domathid/)
-<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=domathId&layout=compact&theme=vue)](https://github.com/domathid/)
-<br />
-<br />
 <a href="https://www.facebook.com/bangdomath.id">
   <img align="left" alt="BangDomath Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
