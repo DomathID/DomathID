@@ -2,6 +2,7 @@
 <a href="https://saweria.co/domathjav69"><img src="https://img.shields.io/badge/Support-Me!-green.svg" alt="Support Me!"></a>
 [![Profile views](https://gpvc.arturio.dev/domathid)](https://github.com/domathid)
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=domathid.domathid)](https://github.com/domathid)
+<a href="https://trakteer.id/bang-domath"><img src="https://img.shields.io/badge/Trakteer-Me-red.svg"></a>
 <br>
 [![Github Stats](https://github-readme-stats.vercel.app/api/?username=DomathID&cache_seconds=1800&show_icons=true&theme=highcontrast)](https://github.com/domathid)
 
