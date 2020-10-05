@@ -6,7 +6,7 @@
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=domathid.domathid)](https://github.com/domathid)
 <a href="https://trakteer.id/bang-domath"><img src="https://img.shields.io/badge/Trakteer-Me-red.svg"></a>
 <br>
-[![Github Stats](https://github-readme-stats.vercel.app/api/?username=DomathID&cache_seconds=1800&show_icons=true&theme=vue)](https://github.com/domathid)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=domathid&show_icons=true&title_color=176b61&icon_color=307c68&border_color=307c68)](https://github.com/domathid)
 
 <a href="https://www.facebook.com/bangdomath.id">
   <img align="left" alt="BangDomath Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
