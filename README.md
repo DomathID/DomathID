@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img width="60%" align="right" alt="Github" src="https://data.whicdn.com/images/85943829/original.png"/>
+<img width="45%" align="right" alt="Github" src="https://data.whicdn.com/images/85943829/original.png"/>
 I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
 
 - 🔭 I’m currently a CS student at Mansoura Unversity.
