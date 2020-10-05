@@ -1,32 +1,13 @@
-### Hello :octocat:, I'm Domath !
+### Hi there 👋
 
+<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-<a href="https://saweria.co/domathjav69"><img src="https://img.shields.io/badge/Support-Me!-green.svg" alt="Support Me!"></a>
-[![Profile views](https://gpvc.arturio.dev/domathid)](https://github.com/domathid)
-[![visitors](https://visitor-badge.laobi.icu/badge?page_id=domathid.domathid)](https://github.com/domathid)
-<a href="https://trakteer.id/bang-domath"><img src="https://img.shields.io/badge/Trakteer-Me-red.svg"></a>
-<br>
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=domathid&show_icons=true&title_color=176b61&icon_color=307c68&border_color=307c68)](https://github.com/domathid)
+I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
 
-<a href="https://www.facebook.com/bangdomath.id">
-  <img align="left" alt="BangDomath Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://dev.to/domathid">
-  <img align="left" alt="BangDomath Dev.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
-</a>
-<a href="https://discord.gg/e9bzxXD">
-  <img align="left" alt="BangDomath Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a>
-<a href="https://codepen.io/domathid">
-  <img align="left" alt="BangDomath Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
-</a>
-<a href="https://stackoverflow.com/domathid">
-  <img align="left" alt="BangDomath StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
-</a>
-<a href="https://www.reddit.com/u/domathjav69">
-  <img align="left" alt="BangDomath Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
-</a>
-<a href="https://masdomath.my.id/">
- <img align="left" alt="BangDomath Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />
-</a>
-<br/>
+- 🔭 I’m currently a CS student at Mansoura Unversity.
+- 📚 I’m currently learning  backend web development using NodeJS, ExpressJS and MongoDB.
+- 👯 I’m looking for a software development internship. 
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hazemessamsaleh) [Gmail](mailto:hazemkwita123@gmail.com)
+
+⭐️ From [hazemessam](https://github.com/hazemessam)
+Inspired from [AbdelrahmanBayoumi](https://github.com/abdelrahmanbayoumi)
