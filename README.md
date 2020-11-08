@@ -3,5 +3,5 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=domathid&show_icons=true&bg_color=ffffff&title_color=008082&text_color=594a4e&icon_color=ff8ba7)
 
 
-I'm not a great person, but I will still try to be the greatest. 
-first place in the lying competition
+**I'm not a great person, but I will still try to be the greatest. 
+first place in the lying competition**
