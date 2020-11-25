@@ -2,4 +2,4 @@
 
 [![DomathID github stats](https://github-readme-stats.vercel.app/api?username=domathid&locale=cn&show_icons=true&bg_color=ffffff&title_color=008082&text_color=223&icon_color=ff8ba7)](https://www.bacotan-wibu.com/)
 <br/>
-<img src="./img/dom.gif" width="200px">
+<img src="./img/dom.gif" align="right" width="200px">
