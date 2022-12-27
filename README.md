@@ -3,3 +3,4 @@
 
 [![@domathid's Holopin board](https://holopin.io/api/user/board?user=domathid)](https://holopin.io/@domathid)
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/masdomath.png" alt="TryHackMe">
