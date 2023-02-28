@@ -3,4 +3,3 @@
 
 [![@domathid's Holopin board](https://holopin.io/api/user/board?user=domathid)](https://holopin.io/@domathid)
 
-<script type="text/javascript" src="https://tryhackme.com/badge/1607432">
